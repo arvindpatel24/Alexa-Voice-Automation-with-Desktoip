@@ -121,7 +121,7 @@ def main():
 			
 			elif "go" in text:
 				if "sleep" in text :
-					speak("Thank You for choosing me chodu!!! Also your pikachu is too fast  and Electrifying. Hope we meet again.")
+					speak("Thank You for choosing me!!! Also your pikachu is too fast  and Electrifying. Hope we meet again.")
 					playsound.playsound("pika.mp3")
 					#os.system("shutdown /s /t 1")
 					break
